@@ -12,7 +12,7 @@ A IA generativa é um tipo de inteligência artificial capaz de criar novos cont
 💼 Para Negócios e Startups
 1. Automação de atendimento
 
-Chatbots inteligentes com linguagem natural
+- - Chatbots inteligentes com linguagem natural
 
 Suporte 24/7 com respostas personalizadas
 
