@@ -14,22 +14,22 @@ A IA generativa é um tipo de inteligência artificial capaz de criar novos cont
 
 - - Chatbots inteligentes com linguagem natural
 
-Suporte 24/7 com respostas personalizadas
+- - Suporte 24/7 com respostas personalizadas
 
 2. Análise de dados e tomada de decisão
 
-Interpretação de relatórios e gráficos
+- - Interpretação de relatórios e gráficos
 
-Geração de insights com base em dados textuais
+- - Geração de insights com base em dados textuais
 
 3. Desenvolvimento ágil
 
-Geração e revisão de código em várias linguagens
+- - Geração e revisão de código em várias linguagens
 
-Sugestões de arquitetura, estrutura de banco de dados, testes
+- - Sugestões de arquitetura, estrutura de banco de dados, testes
 
 4. Marketing inteligente
 
-Segmentação de público e personalização de campanhas
+- - Segmentação de público e personalização de campanhas
 
-Geração de copies, e-mails, slogans, textos SEO
+- - Geração de copies, e-mails, slogans, textos SEO
